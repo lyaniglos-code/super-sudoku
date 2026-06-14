@@ -1,0 +1,2 @@
+# super-sudoku
+Sudoku reimagined.
